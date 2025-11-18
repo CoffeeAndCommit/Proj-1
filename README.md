@@ -1,9 +1,1 @@
-# Proj-1
-• How to set up Flutter to create mobile and web apps.
-• Basics of Django to create a simple backend with Python.
-• Flutter (for building user interfaces)
-• Django (for creating a backend with Python)
-• Python (programming the logic)
-• Basic setup for Flutter and Django.
-• Creating a simple UI with Flutter.
-• Sending data between the app and the backend.
+Proj-1 is a hands‑on full‑stack learning project that pairs a Flutter frontend with a Django backend to demonstrate building cross‑platform mobile/web UIs and a simple RESTful server (SQLite for local development). The repository includes runnable example code, a small Django app in python_project, and clear setup instructions for creating a Python virtual environment and running both backend and frontend locally — making it easy to experiment, extend, and learn full‑stack workflows. Contributions, feature improvements, and documentation enhancements are welcome.
