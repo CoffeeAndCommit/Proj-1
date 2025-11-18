@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
+import 'package:my_frontend/page/get_page.dart';
 import 'package:my_frontend/page/post_page.dart';
 
 class Skeleton extends StatefulWidget {
@@ -14,7 +15,7 @@ class _SkeletonState extends State<Skeleton> {
   int currentIndex = 0;
   List pages = [
     GetPage(),
-    // PostPage()
+    PostPage()
 
   ];
   @override
